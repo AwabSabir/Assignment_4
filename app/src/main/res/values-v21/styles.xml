@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBarr">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#00BFA6</item>
+        <item name="colorPrimaryDark">#00BFA6</item>
+        <item name="colorAccent">#00BFA6</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+</resources>
